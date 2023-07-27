@@ -58,5 +58,19 @@
 - there are 2 steps in functions; 
 - function declaration and function calling
 
-the set of code wants to re-use whenever we needed.
--  
+- the set of code wants to re-use whenever we needed.
+
+# Parameters and arguements
+ - in functions `parenthesis ()` a placeholder values is placed to get the value as input called `parameter`
+  - the value which we give to modify the function called `arguments`.
+
+
+  # Arrays
+- list of values called elements; can hold any type of values
+- arrays are indexed from **0**
+
+# objects
+- objects are set of variables and functions stored as key- value pair.
+
+
+
